@@ -47,7 +47,10 @@ const Header = () => {
       </div>
       <div className="header-bottom">
         <div className="header-logo">
-          <img src="./images/logo.jpg" alt="" />
+          <img
+            src="https://www.kosmebox.com/image/cache/data/Logo%20/logonew20191-454x177.jpg"
+            alt=""
+          />
         </div>
         <input type="text" placeholder="Tìm kiếm..."></input>
         <Link to={`/Search`}>
@@ -76,7 +79,7 @@ const Header = () => {
         >
           <span>
             <img
-              src="./images/icon.png"
+              src="https://www.kosmebox.com/images/homepage_21.png"
               alt=""
               style={{
                 width: "55px",

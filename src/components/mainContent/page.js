@@ -8,7 +8,10 @@ const Page = ({ handleClick }) => {
   return (
     <>
       <div className="banner">
-        <img src="./images/01.jpg" alt="" />
+        <img
+          src="https://www.kosmebox.com/image/data/banner2021/banner-sale-cuoi-nam/1424x400KV-BOX.jpg"
+          alt=""
+        />
       </div>
       <HeaderHomeContent></HeaderHomeContent>
       <h1>ĐỒNG GIÁ 9K - 79K</h1>

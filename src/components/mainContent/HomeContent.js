@@ -139,7 +139,10 @@ const HomeContent = () => {
             <div className="wrapper">
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/17.png" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/T%E1%BA%A9y%20trang%20derladie/3-500x500.png"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Dầu Tẩy Trang Tinh Dầu Hoa Hồng Cocon Rose Cleansing Oil
@@ -160,7 +163,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/18.png" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/18_Bo%CC%9B%20du%CC%9Bo%CC%9B%CC%83ng%20the%CC%82%CC%89%20ca%CC%80%20phe%CC%82%20Dak%20Lak/3-500x500.png"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Cọ Dặn Phấn Đa Năng Missha Artistool Blnding Brush #204
@@ -180,7 +186,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/34.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/N%C6%B0%E1%BB%9Bc%20hoa%20h%E1%BB%93ng%20simple/t%E1%BA%A9y%20trang%20simple/4-500x500.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Xịt Khoáng Giúp Làm Sạch & Làm Dịu Da La Roche-Posay
@@ -201,7 +210,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/20.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/Tinh%20Ch%E1%BA%A5t%20ch%E1%BA%A5t%20m%E1%BB%A5n/3-500x500.png"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Bộ Dương Trị Mụm Some By Mi AHA-BHA 30 Days Miracle Set (4
@@ -222,7 +234,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/21.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/THEFACESHOP/yehwadam-hwansaenggo-ultimate-rejuvenating-serum/yehwadam-hwansaenggo-ultimate-rejuvenating-serum-9-500x500.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Bộ Dưỡng Da Innisfree Trà Xanh Green Tea Balancing Ex (4
@@ -243,7 +258,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/22.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/THEFACESHOP/co-tan-chan-may-2-dau-the-face-shop-daily-beauty-tools-dual-eyebrow-brush/the-face-shop-daily-beauty-tools-dual-eyebrow-brush-1-500x500.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Cọ Vẽ Lông Mày Missha Artisttool Brow Brush #501
@@ -263,7 +281,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/23.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/Romand/hanbok-project-phan-nuoc-sieu-mong-nhe-va-do-che-phu-cao-romand-clear-cover-cushion-14g/Romand-Clear-Cover-Cushion-8-500x500.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       [NEW] Dầu Gội Kích Mọc Tóc OGX Thick And Full Biotin And
@@ -283,7 +304,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/24.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/ReplaceImages/EHCC58-320x320.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>Nước Hoa Nam Tính Đẳng Cấp Charme King 60ml</span>
                     <span
@@ -310,7 +334,10 @@ const HomeContent = () => {
             <div className="wrapper">
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/25.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/Kos%20new/0a0e979fa145b9f39971ad5e2c417428-320x320.jpeg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Kem Chống Nắng Dành Cho Da Dầu Và Nhạy Cảm Innisfree Tone
@@ -331,7 +358,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/26.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/NYX/NYX-Blush/sua-rua-mat-tay-te-bao-va-duong-trang-da-tri-nam-the-face-shop-white-seed-exfoliating-foam-cleanser3-320x320.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Sữa Rửa Mặt Tẩy Tế Bào Và Dưỡng Trắng Da Trị Nám The Face
@@ -351,7 +381,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/27.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/ReplaceImages/LNCC06-320x320.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Mặt Nạ Ngủ Dưỡng Ẩm Môi Và Phục Hồi Môi Thêm Laneige
@@ -372,7 +405,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/28.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/THEFACESHOP/whitejewelpeeling/white-peeling-face-shop-kosmebox-320x320.JPG"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Tẩy Da Chết Trắng Da Chiết Xuất Ngọc Trai The Face Shop
@@ -393,7 +429,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/29.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/INNISFREE/GREENBARELY/mat-na-tay-te-bao-chet-chiet-xuat-lua-mach-innisfree-green-barely-gommage-peeling-mask-125-320x320.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <span>
                       Mặt Nạ Tẩy Tế Bào Chết Chiết Xuất Từ Lúa Mạch Innisfree
@@ -433,7 +472,10 @@ const HomeContent = () => {
             <div className="wrapper">
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/30.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/BLOG/top-3-sua-rua-mat-cho-da-mun/top-3-sua-rua-mat-cho-da-mun-3-300x200.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <h4>Top 3 Sữa Rửa Mặt Cho Da Mụn Đáng Đồng Tiền Bát Gạo</h4>
                     <span>
@@ -446,7 +488,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/31.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/BLOG/top-3-kem-duong-da-nha-nang-hieu-qua-sau-tet/top-3-kem-duong-nha-nang-hieu-qua-sau-tet-2-300x200.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <h4>Top 3 kem dưỡng da "nhả nắng" hiệu quả sau Tết</h4>
                     <span>
@@ -459,7 +504,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/32.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/BLOG/ding-dong-hop-qua-kosmebox-trao-tay-ngay-tet/900x900Bannerweb-Tet-300x200.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <h4>Ding dong... Hộp quà Kosmebox trao tay ngày TẾT</h4>
                     <span>
@@ -472,7 +520,10 @@ const HomeContent = () => {
               </Link>
               <Link to={`/Product-Detail`}>
                 <div className="card">
-                  <img src="./images/33.jpg" alt="" />
+                  <img
+                    src="https://www.kosmebox.com/image/cache/data/MIIN/KCNvatly-300x200.jpg"
+                    alt=""
+                  />
                   <div className="card-content">
                     <h4>
                       Đổ xô dùng kem chống nắng nhưng có thể bạn chưa biết

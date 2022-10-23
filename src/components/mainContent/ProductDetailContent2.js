@@ -10,14 +10,32 @@ const ProductDetailContent2 = () => {
         <div className="col">
           <div className="col-left">
             <div className="img-left">
-              <img src="./images/02.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/ReplaceImages/INSC56-500x500.jpg"
+                alt=""
+              />
             </div>
             <div className="img-right">
-              <img src="./images/2.jpg" alt="" />
-              <img src="./images/3.jpg" alt="" />
-              <img src="./images/4.jpg" alt="" />
-              <img src="./images/5.jpg" alt="" />
-              <img src="./images/6.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/INNISFREE/CapsuleRecipePack/Mat-na-innisfree-capsule-recipe-pack-10ml10a-200x200.jpg"
+                alt=""
+              />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/INNISFREE/CapsuleRecipePack/Mat-na-innisfree-capsule-recipe-pack-10ml8a-200x200.jpg"
+                alt=""
+              />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/INNISFREE/CapsuleRecipePack/Mat-na-innisfree-capsule-recipe-pack-10ml4a-200x200.jpg"
+                alt=""
+              />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/INNISFREE/CapsuleRecipePack/Mat-na-innisfree-capsule-recipe-pack-10ml11a-200x200.jpg"
+                alt=""
+              />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/INNISFREE/CapsuleRecipePack/Mat-na-innisfree-capsule-recipe-pack-10ml12a-200x200.jpg"
+                alt=""
+              />
             </div>
           </div>
           <div className="col-right">
@@ -36,17 +54,17 @@ const ProductDetailContent2 = () => {
                     0 đánh giá <span style={{ color: "#000" }}>/</span> Viết
                     đánh giá
                   </span> */}
-                  {/* <div>
+                  <div>
                     <div
                       class="fb-like"
-                      data-href="https://github.com/huydaoquang/react-hooks-kosmebox"
+                      data-href="https://huydaoquang.github.io/kosmebox-react-hooks/"
                       data-width=""
                       data-layout="standard"
                       data-action="like"
                       data-size="small"
                       data-share="true"
                     ></div>
-                  </div> */}
+                  </div>
                 </div>
                 <div className="wrapper-money">
                   <h3 className="line-through">60,000 đ</h3>
@@ -138,13 +156,19 @@ const ProductDetailContent2 = () => {
             <h2>Sản phẩm đang được bán chạy nhất</h2>
             <div className="container-product">
               <div className="product-item">
-                <img src="./images/47.jpg" alt="" />
+                <img
+                  src="https://www.kosmebox.com/image/cache/data/INNISFREE/real-fit-matte-new-2019/real-fit-matte-new-2019-1-100x100.JPG"
+                  alt=""
+                />
                 <p>[NEW] Son Tint Siêu Lì Peripera Ink The Gelato</p>
                 <h2>55.000đ</h2>
                 <span className="line-through">198.000đ</span>
               </div>
               <div className="product-item">
-                <img src="./images/37.jpg" alt="" />
+                <img
+                  src="https://www.kosmebox.com/image/data/THEFACESHOP/COLLAGENAMPOULELIPSTICK/son-thoi-collagen-the-face-shop-collagen-ampoule-lipstick.jpg"
+                  alt=""
+                />
                 <p>
                   Son Thỏi Collagen The Face Shop Collagen Ampoule Lipstick 3,5g
                 </p>
@@ -152,7 +176,10 @@ const ProductDetailContent2 = () => {
                 <span className="line-through">329.050đ</span>
               </div>
               <div className="product-item">
-                <img src="./images/44.jpg" alt="" />
+                <img
+                  src="https://www.kosmebox.com/image/data/ReplaceImages/LNCC06.jpg"
+                  alt=""
+                />
                 <p>
                   Sữa Rửa Mặt Tẩy Tế Bào Và Dưỡng Trắng Da Trị Nám The Face Shop
                   White Seed Exfoliating Foam Cleanser 150ml
@@ -161,7 +188,10 @@ const ProductDetailContent2 = () => {
                 <span className="line-through">200.050đ</span>
               </div>
               <div className="product-item">
-                <img src="./images/46.jpg" alt="" />
+                <img
+                  src="https://www.kosmebox.com/image/data/INNISFREE/OrchidSleepingPack/mat-na-ngu-ngan-ngua-lao-hoa-Innisfree-Orchid-Sleeping-Pack-8.jpg"
+                  alt=""
+                />
                 <p>
                   Tinh Chất Dưỡng Mắt Chiết Xuất Hoa Oải Hương Laneige
                   Perfect...
@@ -186,7 +216,10 @@ const ProductDetailContent2 = () => {
                 yogurt, cải thiện sắc tố da với mặt nạ ngủ.
               </p>
               <div className="img-main">
-                <img src="./images/48.jpg" alt="" />
+                <img
+                  src="https://www.kosmebox.com/image/data/INNISFREE/Mat-na-innisfree-capsule-recipe-pack-10ml3.JPG"
+                  alt=""
+                />
               </div>
               <h3>Hướng Dẫn Sử Dụng:</h3>
               <p>
@@ -200,14 +233,14 @@ const ProductDetailContent2 = () => {
               </p>
             </div>
             <h4>ĐÁNH GIÁ - BÌNH LUẬN</h4>
-            {/* <div style={{ background: "#fff" }}>
+            <div style={{ background: "#fff" }}>
               <div
                 class="fb-comments"
-                data-href="https://github.com/huydaoquang/react-hooks-kosmebox"
-                data-width="960"
-                data-numposts="5"
+                data-href="https://huydaoquang.github.io/kosmebox-react-hooks/"
+                data-width="950"
+                data-numposts="20"
               ></div>
-            </div> */}
+            </div>
             <div className="comment">
               {/* <span>Không có đánh giá cho sản phẩm này.</span>
               <span className="title">Viết đánh giá</span>
@@ -503,7 +536,10 @@ const ProductDetailContent2 = () => {
             </ul>
             <h4 style={{ marginTop: "20px" }}>SẢN PHẨM ĐÃ XEM</h4>
             <div className="wrapper-product">
-              <img src="./images/05.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/SOONSIKI/sua-rua-mat-soonsiki-clean-sebum-clay-pack-to-form-120ml/Clean-Sebum-Clay-Pack-To-Form-4-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>
                   Sữa rửa mặt Soonsiki Clean Sebum Clay Pack To Form [HSD
@@ -515,7 +551,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/02.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/THEFACESHOP/Mat-Na-Giay-The-Face-Shop-Real-Nature-Mask-Sheet-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>Mặt Nạ Innisfree Capsule Recipe Pack 10ml</p>
                 <span>
@@ -524,7 +563,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/1.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/THEFACESHOP/smart-peeling-mild-papaya-peeling/smart-peeling-mild-papaya-peeling-18-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>Gel tẩy tế bào Soonsiki peenling gel [HSD 08/2022]</p>
                 <span>
@@ -534,7 +576,10 @@ const ProductDetailContent2 = () => {
             </div>
             <h4 style={{ marginTop: "20px" }}>SẢN PHẨM MUA CÙNG</h4>
             <div className="wrapper-product">
-              <img src="./images/38.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/Hinh-sp-sua/mat-na-innisfree-my-real-squeeze-mask-1-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>Mặt Nạ Giấy Innisfree My Real Squeeze Mask [HSD 8/2022]</p>
                 <span>
@@ -543,7 +588,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/39.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/THEFACESHOP/Mat-Na-Giay-The-Face-Shop-Real-Nature-Mask-Sheet-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>Mặt Nạ Giấy The Face Shop Real Nature Mask Sheet - 20g</p>
                 <span>
@@ -552,7 +600,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/40.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/INNISFREE/Innisfree-Intensive-Triple-Care-Sunscreen/Innisfree-triple-shield-2020-3-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>
                   Mặt Nạ Giấy Chăm Sóc Da Toàn Diện Foodaholic Essential Mask
@@ -564,7 +615,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/37.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/Foodaholic/mat-na-giay-cham-soc-da-toan-dien-foodaholic-essential-mask-23g-hop-10-mieng/mat-na-giay-cham-soc-da-toan-dien-foodaholic-essential-mask-23g-1-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>
                   Son Thỏi Collagen The Face Shop Collagen Ampoule Lipstick 3,5g
@@ -575,7 +629,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/27.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/ReplaceImages/LNCC06-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>
                   Mặt Nạ Ngủ Dưỡng Ẩm Môi Và Phục Hồi Môi Thâm Laneige Special
@@ -587,7 +644,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/43.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/INNISFREE/jeju-cherry-blossom-tone-up-cream/kem-duong-innisfree-jeju-cherry-blossom-tone-up-cream-50ml-1-1-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>
                   Kem Chống Nắng 3 Tác Dụng Chuyên Sâu Innisfree Intensive
@@ -599,7 +659,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/31.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/NYX/NYX-Blush/sua-rua-mat-tay-te-bao-va-duong-trang-da-tri-nam-the-face-shop-white-seed-exfoliating-foam-cleanser3-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>
                   Kem Dưỡng Nâng Tông Da Trắng Sáng Chiết Xuất Hoa Anh Đào
@@ -611,7 +674,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/45.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/THEFACESHOP/designing-eyebrow-pencil/The-Face-Shop-Design-My-Eyebrow-14-100x100.JPG"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>
                   Sữa Rửa Mặt Trà Xanh Innisfree Green Tea Cleansing Foam 150ml
@@ -622,7 +688,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/44.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/LEBELAGE/tinh-chat-vang-24k-chong-lao-hoa-da-lebelage-heeyul-premium-gold-essence-30ml-x-2-lo/tinh-chat-vang-24k-chong-lao-hoa-da-lebelage-heeyul-premium-gold-essence-30ml-x-2-lo-1-100x100.jpg"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>
                   Sữa Rửa Mặt Tẩy Tế Bào Và Dưỡng Trắng Da Trị Nám The Face Shop
@@ -634,7 +703,10 @@ const ProductDetailContent2 = () => {
               </div>
             </div>
             <div className="wrapper-product">
-              <img src="./images/41.jpg" alt="" />
+              <img
+                src="https://www.kosmebox.com/image/cache/data/INNISFREE/real-fit-matte-new-2019/real-fit-matte-new-2019-1-100x100.JPG"
+                alt=""
+              />
               <div className="wrapper-content">
                 <p>Chì Kẻ Mày 2 Đầu The Face Shop Designing Eyebrow Pencil</p>
                 <span>
