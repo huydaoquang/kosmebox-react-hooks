@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/kosmebox-react-hooks/static/css/main.40fdce02.chunk.css",
-    "main.js": "/kosmebox-react-hooks/static/js/main.f68e8491.chunk.js",
-    "main.js.map": "/kosmebox-react-hooks/static/js/main.f68e8491.chunk.js.map",
-    "runtime-main.js": "/kosmebox-react-hooks/static/js/runtime-main.dd7bdaa1.js",
-    "runtime-main.js.map": "/kosmebox-react-hooks/static/js/runtime-main.dd7bdaa1.js.map",
+    "main.css": "/kosmebox-react-hooks/static/css/main.402b5c48.chunk.css",
+    "main.js": "/kosmebox-react-hooks/static/js/main.e37fa7c9.chunk.js",
+    "main.js.map": "/kosmebox-react-hooks/static/js/main.e37fa7c9.chunk.js.map",
+    "runtime-main.js": "/kosmebox-react-hooks/static/js/runtime-main.a6d66c05.js",
+    "runtime-main.js.map": "/kosmebox-react-hooks/static/js/runtime-main.a6d66c05.js.map",
     "static/css/2.47012977.chunk.css": "/kosmebox-react-hooks/static/css/2.47012977.chunk.css",
-    "static/js/2.0334251e.chunk.js": "/kosmebox-react-hooks/static/js/2.0334251e.chunk.js",
-    "static/js/2.0334251e.chunk.js.map": "/kosmebox-react-hooks/static/js/2.0334251e.chunk.js.map",
-    "static/js/3.88e51602.chunk.js": "/kosmebox-react-hooks/static/js/3.88e51602.chunk.js",
-    "static/js/3.88e51602.chunk.js.map": "/kosmebox-react-hooks/static/js/3.88e51602.chunk.js.map",
+    "static/js/2.a3a46990.chunk.js": "/kosmebox-react-hooks/static/js/2.a3a46990.chunk.js",
+    "static/js/2.a3a46990.chunk.js.map": "/kosmebox-react-hooks/static/js/2.a3a46990.chunk.js.map",
+    "static/js/3.8175daff.chunk.js": "/kosmebox-react-hooks/static/js/3.8175daff.chunk.js",
+    "static/js/3.8175daff.chunk.js.map": "/kosmebox-react-hooks/static/js/3.8175daff.chunk.js.map",
     "index.html": "/kosmebox-react-hooks/index.html",
     "static/css/2.47012977.chunk.css.map": "/kosmebox-react-hooks/static/css/2.47012977.chunk.css.map",
-    "static/css/main.40fdce02.chunk.css.map": "/kosmebox-react-hooks/static/css/main.40fdce02.chunk.css.map",
-    "static/js/2.0334251e.chunk.js.LICENSE.txt": "/kosmebox-react-hooks/static/js/2.0334251e.chunk.js.LICENSE.txt"
+    "static/css/main.402b5c48.chunk.css.map": "/kosmebox-react-hooks/static/css/main.402b5c48.chunk.css.map",
+    "static/js/2.a3a46990.chunk.js.LICENSE.txt": "/kosmebox-react-hooks/static/js/2.a3a46990.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd7bdaa1.js",
+    "static/js/runtime-main.a6d66c05.js",
     "static/css/2.47012977.chunk.css",
-    "static/js/2.0334251e.chunk.js",
-    "static/css/main.40fdce02.chunk.css",
-    "static/js/main.f68e8491.chunk.js"
+    "static/js/2.a3a46990.chunk.js",
+    "static/css/main.402b5c48.chunk.css",
+    "static/js/main.e37fa7c9.chunk.js"
   ]
 }
