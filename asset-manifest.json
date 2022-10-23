@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kosmebox-react-hooks/static/css/main.40fdce02.chunk.css",
-    "main.js": "/kosmebox-react-hooks/static/js/main.5a3f72a8.chunk.js",
-    "main.js.map": "/kosmebox-react-hooks/static/js/main.5a3f72a8.chunk.js.map",
+    "main.js": "/kosmebox-react-hooks/static/js/main.f68e8491.chunk.js",
+    "main.js.map": "/kosmebox-react-hooks/static/js/main.f68e8491.chunk.js.map",
     "runtime-main.js": "/kosmebox-react-hooks/static/js/runtime-main.dd7bdaa1.js",
     "runtime-main.js.map": "/kosmebox-react-hooks/static/js/runtime-main.dd7bdaa1.js.map",
     "static/css/2.47012977.chunk.css": "/kosmebox-react-hooks/static/css/2.47012977.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.47012977.chunk.css",
     "static/js/2.0334251e.chunk.js",
     "static/css/main.40fdce02.chunk.css",
-    "static/js/main.5a3f72a8.chunk.js"
+    "static/js/main.f68e8491.chunk.js"
   ]
 }
