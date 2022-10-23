@@ -36,7 +36,7 @@ const ProductDetailContent2 = () => {
                     0 đánh giá <span style={{ color: "#000" }}>/</span> Viết
                     đánh giá
                   </span> */}
-                  <div>
+                  {/* <div>
                     <div
                       class="fb-like"
                       data-href="https://github.com/huydaoquang/react-hooks-kosmebox"
@@ -46,7 +46,7 @@ const ProductDetailContent2 = () => {
                       data-size="small"
                       data-share="true"
                     ></div>
-                  </div>
+                  </div> */}
                 </div>
                 <div className="wrapper-money">
                   <h3 className="line-through">60,000 đ</h3>
@@ -200,14 +200,14 @@ const ProductDetailContent2 = () => {
               </p>
             </div>
             <h4>ĐÁNH GIÁ - BÌNH LUẬN</h4>
-            <div style={{ background: "#fff" }}>
+            {/* <div style={{ background: "#fff" }}>
               <div
                 class="fb-comments"
                 data-href="https://github.com/huydaoquang/react-hooks-kosmebox"
                 data-width="960"
                 data-numposts="5"
               ></div>
-            </div>
+            </div> */}
             <div className="comment">
               {/* <span>Không có đánh giá cho sản phẩm này.</span>
               <span className="title">Viết đánh giá</span>
