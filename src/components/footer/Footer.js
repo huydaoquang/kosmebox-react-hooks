@@ -1,9 +1,10 @@
 import "./Footer.scss";
 import { Link } from "react-router-dom";
-
+import ScrollToTop from "react-scroll-to-top";
 const Footer = () => {
   return (
     <>
+      <ScrollToTop smooth top="50" color="red" />
       <footer>
         <div>
           <h3>THÔNG TIN CHUNG</h3>
